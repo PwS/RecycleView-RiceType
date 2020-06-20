@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">RiceType</string>
+    <string name="rice_name">Rice Name</string>
+    <string name="detail">Detail</string>
+    <string name="about">About</string>
+    <string name="list">List</string>
+    <string name="tittle">Tittle</string>
+    <string name="paragraf">Paragraf</string>
+</resources>
